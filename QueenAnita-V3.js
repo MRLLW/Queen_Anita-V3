@@ -353,7 +353,7 @@ const subscribe_dgxeon = {
 },
 message: {
 "listResponseMessage": {
-title: `Powered By Queen_Anita-V3™`
+title: `Powered By LLW_MD-V1™`
 }}
 }
 async function XeonyCrashy(dgxeon,chat) {
@@ -712,7 +712,7 @@ var xeonlod = [
 "《 ███████▒▒▒▒▒》50%",
 "《 ██████████▒▒》80%",
 "《 ████████████》100%",
-"𝙻𝙾𝙰𝙳𝙸𝙽𝙶 𝙲𝙾𝙼𝙿𝙻𝙴𝚃𝙴𝙳 👸..."
+"𝙻𝙾𝙰𝙳𝙸𝙽𝙶 𝙲𝙾𝙼𝙿𝙻𝙴𝚃𝙴𝙳 😂..."
 ]
 let { key } = await XeonBotInc.sendMessage(from, {text: 'ʟᴏᴀᴅɪɴɢ...'})
 
