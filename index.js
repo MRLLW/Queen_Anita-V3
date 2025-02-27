@@ -13,7 +13,7 @@ function start() {
       })
       .on('message', data => {
          if (data == 'reset') {
-            console.log('Queen_Anita-V3 Restarting...')
+            console.log('LLW_MD-V1 Restarting...')
             p.kill()
             start()
             delete p
